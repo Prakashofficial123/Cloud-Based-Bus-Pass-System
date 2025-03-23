@@ -225,7 +225,7 @@
           <div class="col-lg-4">
             <div class="mb-5">
               <h3 class="footer-heading mb-4">About Travelers</h3>
-              <p>Provides student a pass for their daily life to travel to/from GLA University, Mathura</p>
+              <p>Provides student a pass for their daily life to travel to/from Parul University, Vadodara</p>
             </div>
 
             
