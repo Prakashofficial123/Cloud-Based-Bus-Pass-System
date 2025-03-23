@@ -179,7 +179,7 @@
                 
                 <p class="mb-0 font-weight-bold" style="float: left;">From - To &nbsp &nbsp</p>
               <p class="mb-4">
-                GLA University - 
+                Parul University - 
 				<?php
 						echo $row['dest'];
 					?>
